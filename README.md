@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Renato Martins
+# 👨‍💻 Renato Martins
 
 *Desenvolvedora FullStack*
 
@@ -7,34 +7,21 @@ Sou um desenvolvedor com conhecimentos em diversas tecnologias da área de desen
 Tenho experiência no desenvolvimento de aplicações web, com foco em boas práticas de programação, organização de código e uso eficiente das ferramentas e frameworks atuais
 
 <p align="left">
-    <a href="https://www.instagram.com/seu_usuario">
+    <a href="https://www.instagram.com/ren4tosanto?igsh=MTJ2eXl3dnIxc3A3dQ==">
         <img 
             alt="Instagram" 
             title="Me siga no Instagram" 
             src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/seu_usuario">
+    <a href="https://www.linkedin.com/in/renato-martins-7554b9279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+   
 </p>
 
 ---
@@ -89,22 +76,8 @@ Tenho experiência no desenvolvimento de aplicações web, com foco em boas prá
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+
+<
 <img 
     align="left" 
     alt="SASS" 
@@ -121,21 +94,8 @@ Tenho experiência no desenvolvimento de aplicações web, com foco em boas prá
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+
+
 />
 <img 
     align="left" 
